@@ -1,0 +1,22 @@
+{
+    "goodLogin":[
+        {
+            "username": "dorina.bran@gmail.com",
+            "password": "Matematica123"
+        },
+        { 
+            "username":"dorina.bran@gmail.com",
+            "password":"invalidpass"
+        }
+        ],
+        "badlogin":[
+            {
+                "username": " ",
+                "password": " "
+            },
+            { 
+                "username":"dorina.bran@gmail.com",
+                "password":""
+            } 
+        ]
+}
